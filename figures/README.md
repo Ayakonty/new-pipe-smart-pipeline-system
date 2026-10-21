@@ -1,35 +1,35 @@
 # NEW PIPE Project Figures
 
-These images were extracted from the author-provided NEW PIPE research document. They represent different project stages and must not be confused.
+This directory contains visual materials from the NEW PIPE research project. The images represent different stages of development and should not be confused with experimentally validated results.
 
-- `original_arduino_prototype_photo.png`: Photograph of the original physical Arduino-based prototype, which the author reports was assembled and tested. This image is not evidence of a deployed smart pipeline network.
-- `updated_conceptual_circuit_diagram.jpg`: Circuit/system concept for the updated NEW PIPE architecture. The updated design has not been physically built, electrically validated, or experimentally tested.
-- `proposed_pipeline_layout.png`: Illustrative proposed sensor and valve arrangement. This is not a photograph or measurement of an actual installed pipeline.
+## 1. Original Arduino Prototype
 
-**Safety note:** The conceptual circuit diagram depicts a mains-powered pump. It is an illustrative design, not a verified or safe-to-build wiring guide. Any physical implementation requires a qualified electrical safety review, appropriate isolation and protective devices.
+Photograph of the original Arduino-based prototype, which was physically assembled and tested during the initial NEW PIPE project.
 
-No measured detection times, water-loss savings, or machine-learning performance are claimed for the updated conceptual design.
+This photograph does not represent a deployed municipal pipeline network.
 
+![Original Arduino Prototype](original_arduino_prototype_photo.png)
 
+## 2. Updated Conceptual Circuit Design
 
-## Project Figures
+Proposed Arduino-based circuit and system architecture for the updated NEW PIPE project.
 
-### 1. Original Arduino Prototype
+The updated design has not been physically implemented, electrically validated, or experimentally tested.
 
-Physical prototype assembled and tested during the initial NEW PIPE project.
+![Updated Conceptual Circuit Design](updated_conceptual_circuit_diagram.jpg)
 
-original_arduino_prototype_photo.png
+## 3. Proposed Pipeline Sensor and Valve Layout
 
-### 2. Updated Conceptual Circuit Design
+Illustrative layout showing the proposed arrangement of sensors and isolation valves.
 
-Proposed Arduino-based circuit architecture for the updated NEW PIPE system. This design has not yet been physically implemented or experimentally validated.
+This diagram represents a conceptual system, not an installed pipeline or completed field experiment.
 
-updated_conceptual_circuit_diagram.jpg
+![Proposed Pipeline Layout](proposed_pipeline_layout.png)
 
-### 3. Proposed Pipeline Sensor and Valve Layout
+## Research and Safety Notes
 
-Illustrative pipeline layout showing the proposed arrangement of sensors and isolation valves. This is a conceptual layout, not an implemented field installation.
+The original Arduino prototype and the updated conceptual architecture represent separate stages of the NEW PIPE project.
 
-proposed_pipeline_layout.png
+The conceptual circuit includes electrical equipment and is not a verified construction or wiring guide. Any physical implementation requires appropriate electrical safety review and protective measures.
 
-
+No experimentally measured detection times, water-loss reductions, or machine-learning performance are claimed for the updated design.
