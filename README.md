@@ -58,3 +58,24 @@ Future work includes implementing the updated hardware design, collecting sensor
 This repository is intended to document available prototype materials, engineering diagrams, and the development of the NEW PIPE concept.
 
 The original prototype and the proposed updated architecture are presented separately to distinguish completed implementation from future development.
+
+
+
+
+## Project Figures
+
+### Original Arduino Prototype
+Physically assembled and tested in the original NEW PIPE project.
+
+![Original prototype](figures/original_arduino_prototype_photo.png)
+
+### Updated Conceptual Circuit
+Proposed design; not yet physically implemented or tested.
+
+![Updated circuit](figures/updated_conceptual_circuit_diagram.jpg)
+
+### Proposed Pipeline Layout
+Illustrative sensor and valve arrangement, not a completed installation.
+
+![Pipeline layout](figures/proposed_pipeline_layout.png)
+
