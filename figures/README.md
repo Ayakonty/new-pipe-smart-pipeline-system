@@ -18,18 +18,18 @@ No measured detection times, water-loss savings, or machine-learning performance
 
 Physical prototype assembled and tested during the initial NEW PIPE project.
 
-![Original Arduino prototype](figures/original_arduino_prototype_photo.png)
+original_arduino_prototype_photo.png
 
 ### 2. Updated Conceptual Circuit Design
 
 Proposed Arduino-based circuit architecture for the updated NEW PIPE system. This design has not yet been physically implemented or experimentally validated.
 
-![Updated conceptual circuit](figures/updated_conceptual_circuit_diagram.jpg)
+updated_conceptual_circuit_diagram.jpg
 
 ### 3. Proposed Pipeline Sensor and Valve Layout
 
 Illustrative pipeline layout showing the proposed arrangement of sensors and isolation valves. This is a conceptual layout, not an implemented field installation.
 
-![Proposed pipeline layout](figures/proposed_pipeline_layout.png)
+proposed_pipeline_layout.png
 
 
